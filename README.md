@@ -1,5 +1,5 @@
 # Connectors_JST.pretty
-
+well i need to change something to demostrate how to make a pull request don't i ;)
 This library contains footprints for JST connectors - www.jst.com
 
 Footprints for the following connectors are available:
